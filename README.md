@@ -11,7 +11,7 @@
     https://www.tiktok.com/@9bytes | The code for all the tiktoks I post on coding will be inside this repo.
     <br />
     <br />
-    <a href="https://discord.gg/ptools">Discord Server</a>
+    <a href="https://discord.gg/socket">Discord Server</a>
     .
     <a href="https://instagram.com/helplest">Instagram</a>
     .
